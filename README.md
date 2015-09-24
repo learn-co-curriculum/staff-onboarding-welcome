@@ -8,6 +8,8 @@ We are so happy you are here! Welcome to Flatiron School (and to Learn). We just
   - "Welcome", "Tasks", and "Reading" are **units**. Units contain **lessons**; a lesson is what you're currently reading.
 - When you finish a lesson, click the "I'm Done" button in the right-hand column, and then click "Next Lesson".
 
+Before you do anything though, go into your email and find an email titled "[Atlassian], NAME, welcome to Atlassian Cloud", and set up an account for Confluence (our internal wiki).
+
 If you have any questions, ask Mike Linshi!
 
 One last thing - in case it takes you a while to get to the section on the various codes around 11 Broadway, the bathroom codes are 11215 (men's room) and 11260 (women's room).
