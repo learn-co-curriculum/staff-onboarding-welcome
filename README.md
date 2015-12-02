@@ -15,3 +15,5 @@ If you have any questions, ask Mike Linshi!
 One last thing - in case it takes you a while to get to the section on the various codes around 11 Broadway, the bathroom codes are 11215 (men's room) and 11260 (women's room).
 
 Happy Learning!
+
+<a href='https://learn.co/lessons/staff-onboarding-welcome' data-visibility='hidden'>View this lesson on Learn.co</a>
