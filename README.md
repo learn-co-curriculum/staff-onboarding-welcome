@@ -1,6 +1,6 @@
 # Welcome to Flatiron School!
 
- Welcome to Flatiron School (and to Learn). We are so glad you are here and a part of our team- changing the face of education. 
+ Welcome to Flatiron School (and to Learn). We are so glad you are here and a part of our team changing the face of education. 
  
  If you haven't used Learn before, here's how it works:
 - The left-hand column is your navigator. There are three levels of hiearchy:
