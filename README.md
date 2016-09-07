@@ -8,7 +8,7 @@
   - "Welcome", "Tasks", and "Reading" are **units**. Units contain **lessons**; a lesson is what you're currently reading.
 - When you finish a lesson, click the "I'm Done" button in the right-hand column, and then click "Next Lesson".
 
-If you have any questions, please reach out to Sarah who is in charge of the onboarding process.
+If you have any questions, please reach out to Sarah via Slack (sarah.fox) or email (sarah.fox@flatironschool.com) who is in charge of the onboarding process.
 
 Happy Learning!
 
