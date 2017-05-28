@@ -14,4 +14,4 @@ If you have any questions, please reach out to Sarah, who is in charge of the on
 
 Happy Learning!
 
-<a href='https://learn.co/lessons/staff-onboarding-welcome' data-visibility='hidden'>View this lesson on Learn.co</a>.
+<a href='https://learn.co/lessons/staff-onboarding-welcome' data-visibility='hidden'>View this lesson on Learn.co</a>
